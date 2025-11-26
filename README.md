@@ -19,7 +19,7 @@
 ---
 
 ## 🌑 Tecnologias & Ferramentas que utilizo
-
+<p align="center">
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
   <!-- Linha 1 -->
@@ -41,7 +41,7 @@
   </div>
 
 </div>
-
+</p>
 ---
 
 ## 📊 Estatísticas do GitHub
