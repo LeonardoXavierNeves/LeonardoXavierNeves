@@ -41,13 +41,12 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![Leonardo stats](https://github-readme-stats.vercel.app/api?username=LeonardoXavierNeves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+<img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=LeonardoXavierNeves&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoXavierNeves&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+<img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=LeonardoXavierNeves&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
 
 ## 🚀 Projetos em Destaque
   **EM BREVE**
