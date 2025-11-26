@@ -14,6 +14,7 @@
 - 💡 Interessado por tecnologia em geral: desenvolvimento, redes, suporte, hardware e software
 - 🧠 Sempre aprendendo e explorando novas áreas dentro da TI
 - 🚀 Buscando experiência prática e projetos para evoluir na carreira
+- 📍 Brasil
 
 ---
 
@@ -21,18 +22,24 @@
 <div style="display: inline_block"><br/>
 
   <!-- Desenvolvimento geral -->
-  <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ ## 🧰 Tecnologias & Ferramentas
 
-  <!-- Ferramentas -->
-  <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="VSCode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  
-  <!-- Área técnica -->
-  <img align="center" alt="Windows" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<!-- Badges das linguagens -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<!-- Ferramentas -->
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- Hardware / Eletrônica (se quiser pode tirar) -->
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+
 
 </div>
 
@@ -47,6 +54,10 @@
 
 </div>
 
+## 🐍 Minhas Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeonardoXavierNeves/LeonardoXavierNeves/output/snake.svg" alt="Snake animation" />
+</p>
 ## 🚀 Projetos em Destaque
   **EM BREVE**
 
