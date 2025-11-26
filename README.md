@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leonardo Neves
 
-### 💻 Estudante de Desenvolvimento | Apaixonado por Java e Tecnologia
+### 💻 Estudante de Sistemas De Informação | Apaixonado Tecnologia
 
 - 🎓 Estudando programação e criando projetos para evoluir
 - ☕ Trabalhando em projetos Java
