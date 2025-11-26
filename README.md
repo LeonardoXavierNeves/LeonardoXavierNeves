@@ -41,12 +41,11 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=LeonardoXavierNeves&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoXavierNeves&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=LeonardoXavierNeves&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoXavierNeves&theme=tokyonight" />
 
 </div>
-
 
 ## 🚀 Projetos em Destaque
   **EM BREVE**
