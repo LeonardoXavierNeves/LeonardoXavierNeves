@@ -57,6 +57,10 @@
 💼 **Em Breve**  
 
 ---
+## 🐍 Minhas Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeonardoXavierNeves/LeonardoXavierNeves/output/snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1317,100:1f2a35&height=120&section=footer" />
