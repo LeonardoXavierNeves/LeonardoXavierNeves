@@ -60,11 +60,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Synct-Labs/lets-do-good">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Synct-Labs&repo=lets-do-good&theme=tokyonight" />
+<a href="https://github.com/Synct-Labs">
+  <img src="https://img.shields.io/badge/SYNCT%20LABS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 💼 Organização: SYNCT LABS  
 🛠️ Desenvolvimento de aplicações e soluções digitais  
