@@ -43,9 +43,13 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoXavierNeves&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoXavierNeves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeonardoXavierNeves&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoXavierNeves&layout=compact&theme=tokyonight"/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeonardoXavierNeves&theme=tokyonight" />
+</p>
 
 </div>
 
