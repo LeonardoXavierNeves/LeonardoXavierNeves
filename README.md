@@ -1,5 +1,8 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1317,100:1f2a35&height=200&section=header&text=Leonardo%20Neves&fontColor=ffffff&fontSize=40&animation=twinkling" />
+</p>
+<p align="center">
   <img src="https://github.com/LeonardoXavierNeves.png" width="120px" style="border-radius:50%" />
 </p>
 
