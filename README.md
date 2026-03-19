@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/LeonardoXavierNeves.png" width="120px" />
+  <img src="https://github.com/LeonardoXavierNeves.png" width="120px" style="border-radius:50%" />
 </p>
 
 <h2 align="center">👋 Olá, eu sou o Leonardo Neves!</h2>
