@@ -1,19 +1,20 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1317,100:1f2a35&height=180&section=header&text=Leonardo%20Neves&fontColor=ffffff&fontSize=40&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Leonardo+Neves;Desenvolvedor+em+formação;React+%7C+TypeScript+%7C+Front-end" />
 </p>
 
 <h2 align="center">👋 Olá, eu sou o Leonardo Neves!</h2>
-<p align="center">🎓 Estudante de Sistemas de Informação | 🛠️ Técnico em Informática</p>
+<p align="center">🎓 Estudante de Sistemas de Informação | Técnico em Informática</p>
 
 ---
 
 ## 🧭 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação**
 - 🛠️ **Técnico em Informática**
-- 💡 Interessado por tecnologia em geral: desenvolvimento, redes, suporte, hardware e software
-- 🧠 Sempre aprendendo e explorando novas áreas dentro da TI
-- 🚀 Buscando experiência prática e projetos para evoluir na carreira
+- 💻 Desenvolvedor Full Stack em formação  
+- ⚛️ Experiência com React, TypeScript e interfaces modernas  
+- 🧠 Atuação também no backend, lógica e estruturação de sistemas  
+- 🚀 Construindo projetos completos, do front ao back  
 - 📍 Brasil
 
 ---
