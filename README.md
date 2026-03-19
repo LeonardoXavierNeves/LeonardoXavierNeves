@@ -53,11 +53,26 @@
 
 ## 🐍 Minhas Contribuições
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeonardoXavierNeves/LeonardoXavierNeves/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LeonardoXavierNeves/LeonardoXavierNeves/output/snake.svg" />
 </p>
 
 ## 🚀 Projetos em Destaque
-  **EM BREVE**
+
+<div align="center">
+
+<a href="https://github.com/Synct-Labs">
+  <img src="https://img.shields.io/badge/SYNCT%20LABS-0d1317?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+🧠 Organização focada em desenvolvimento de soluções tecnológicas  
+🚀 Projetos, automações e sistemas reais em construção  
+
+👉 https://github.com/Synct-Labs
+
+</div>
+
 
 ---
 
