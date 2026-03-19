@@ -60,16 +60,18 @@
 
 <div align="center">
 
-<a href="https://github.com/Synct-Labs">
-  <img src="https://img.shields.io/badge/SYNCT%20LABS-0d1317?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Synct-Labs/lets-do-good">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Synct-Labs&repo=lets-do-good&theme=tokyonight" />
 </a>
 
-<br><br>
+<br>
 
-🧠 Organização focada em desenvolvimento de soluções tecnológicas  
-🚀 Projetos, automações e sistemas reais em construção  
+💼 Organização: SYNCT LABS  
+🛠️ Desenvolvimento de aplicações e soluções digitais  
 
-👉 https://github.com/Synct-Labs
+<a href="https://github.com/Synct-Labs">
+  Ver organização completa →
+</a>
 
 </div>
 
@@ -77,8 +79,14 @@
 ---
 
 ## 📫 Contato
-📩 **Leonardoviniciusxn@gmail.com**  
-💼 **Em Breve**  
+<p align="center">
+  <a href="mailto:Leonardoviniciusxn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1317?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leonardovxneves/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1317?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 <p align="center">
