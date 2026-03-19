@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Leonardo+Neves;Desenvolvedor+em+formação;React+%7C+TypeScript+%7C+Front-end" />
+  <img src="https://github.com/LeonardoXavierNeves.png" width="120px" />
 </p>
 
 <h2 align="center">👋 Olá, eu sou o Leonardo Neves!</h2>
@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/VS_Code-0d1317?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7" />
 
 </div>
----
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
